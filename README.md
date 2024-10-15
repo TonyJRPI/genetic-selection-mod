@@ -13,14 +13,22 @@ This is in theory, and everything is random chance, but this mod operates on alt
 Besides modifying the basic properties of a mob, this mod will aim to add more properties that wouldn’t be listed by Minecraft, like sizes of different body parts of a mob. This goes with our mission of full customization in our mod.
 
 ## Getting Started
+This mod uses Minecraft version 1.21.1
 If you want to contribute to the mod, use method 1.
 
 **Method 1: Running through Intellij IDEA**
+Download a JDK of version 21-LT that matches your system
+(https://adoptium.net/temurin/releases/?package=jdk&arch=any)
+
 Use IntelliJ IDEA, the community edition is free to use.
 (https://www.jetbrains.com/idea/) 
 Clone the repository
 Open the repository in IntelliJ
+Ensure the settings are correct
 Run through the Minecraft Client
+
+*Video tutorial to run a Minecraft fabric mod in Intellij IDEA*
+https://youtu.be/oU8-qV-ZtUY?list=PLKGarocXCE1H_HxOYihQMq0mlpqiUJj4L
 
 **Method 2: Running through Fabric**
 If you already have Minecraft and/or you just want to play with this mod, you can install fabric and run mods through it.
