@@ -34,3 +34,10 @@ If you already have Minecraft and/or you just want to play with this mod, you ca
 
 *Installation Guide for Windows and MacOS:*\
 https://minecrafthopper.net/help/guides/installing-mods/fabric/#:~:text=Installing%20Mods,-In%20this%20tutorial&text=First%2C%20launch%20the%20Fabric%20loader,minecraft%20folder
+
+## Credits
+@samsthenerd (discord)\
+TonyJRPI https://github.com/TonyJRPI \
+winsonlin21 https://github.com/winsonlin21 \
+corxgi https://github.com/corxgi \
+AnthonyLi88 https://github.com/AnthonyLi88
