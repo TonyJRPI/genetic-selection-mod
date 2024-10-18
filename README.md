@@ -1,8 +1,6 @@
 # Genetic Selection Mod
+This Minecraft mod enhances the game by providing a more lifelike simulation of animal interaction and breeding. It introduces additional attributes and characteristics to existing Minecraft animals, enabling them to exhibit more realistic behaviors and interactions. Currently, in Minecraft 12.1, Horses can be bred to produce more desirable foals, with higher jump strength and speed. This mod expands on this feature, allowing players to breed other animals, in a similar way, to create offspring with specific traits and characteristics. 
 
-The basic idea of this Minecraft mod is that we can modify the properties of each mob with full customization from breeding mobs. Breed two mobs with desirable traits (determined through the mob’s properties), the offspring has a chance of inheriting x trait.
-
----
 Example:
 
 In this scenario, **Horse 1** is `size: 1.5` and has `speed: 6`, but only has `health: 5`. We have another horse - **Horse 2** - that is `size: 1.1` and has `speed: 5`, but has `health: 12`, we can breed the two horses and have a result that has a good chance of having a desired trait of faster `speed` and possibly higher `health`, and `size` could vary.
